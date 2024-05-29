@@ -1,3 +1,3 @@
 # AIDM2
 
-working AI but needs more training
+# working AI but needs more training
